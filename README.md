@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justfizah
-- 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m a Software Developer
+- 🌱 I’m vast in React
+- 💞️ I’m looking to collaborate on any Software development gig
 - 📫 How to reach me Linkedln:http://www.linkedln.com/in/hafizah-muhyideen-a6a1061bb
 
 <!---
