@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafizah
-- 👀 I’m a Software Developer
-- 🌱 I’m vast in React
+- 👀 I’m a Software Engineer
+- 🌱 I’m vast in React & Typescript
 - 💞️ I’m looking to collaborate with you!
 - 📫 How to reach me Linkedln:http://www.linkedln.com/in/hafizah-muhyideen-a6a1061bb
 
